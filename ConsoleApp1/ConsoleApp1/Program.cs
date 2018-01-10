@@ -14,6 +14,8 @@ namespace ConsoleApp1
             Console.WriteLine("Bonjour Tout le monde!");
 <<<<<<< HEAD
             Console.WriteLine(" il fait moche");
+=======
+         
 >>>>>>> 1e19c27a9830312d19a0ac0b5f94fead0f6370ab
 
         }
